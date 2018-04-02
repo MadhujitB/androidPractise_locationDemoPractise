@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Location Demo Practise</string>
+
+    <string name="google_map_api_key">AIzaSyDWBn7BQHy5hKG20imG61K3wNcSiVWtrA4</string>
+
+    <string name="btn_viewMap">View Map</string>
+    <string name="btn_startTracking">Start Trace</string>
+    <string name="btn_stopTracking">Stop Trace</string>
+
+    <string name="btn_start_button">View Map</string>
+    <string name="btn_stop_button">Stop</string>
+
+</resources>
